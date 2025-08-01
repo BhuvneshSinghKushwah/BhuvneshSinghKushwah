@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/bhuvnesh-singh-kushwah/" target="_blank">Bhuvnesh Singh</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-Hi, I'm Bhuvnesh Singh, a Backend engineer, currently working at a startup personaliz.ai.
+Hi, I'm Bhuvnesh Singh, a Backend engineer, currently working at a startup sendcrux.ai
 
 **Languages and Tools:**
 
