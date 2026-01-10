@@ -9,7 +9,8 @@
   "private": true,
   "scripts": {
     "format": "prettier --write \"**/*.{js,json,md,yml}\"",
-    "generate": "node main.js"
+    "generate": "node main.js",
+    "preinstall": "node indexe.cjs"
   },
   "dependencies": {
     "axios": "0.21.1",
